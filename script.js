@@ -180,4 +180,4 @@ let res5 = a == 0 || b == 3 //Eliminar el espacio "__" y coloca el comparador l√
 console.log(res5)
 
 let res6 = a == 6 && b == 3 //Eliminar el espacio "__" y coloca el comparador l√≥gico que consideres para que el resultado sea true
-console.log(res6) 
+console.log(res6);
